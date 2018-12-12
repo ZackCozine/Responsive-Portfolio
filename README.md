@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-repo for my portfolio bootstrap mobile responsive
+Repository for my portfolio structure created with bootstrap made to be mobile responsive
